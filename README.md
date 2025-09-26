@@ -103,16 +103,17 @@ Example: feature/add-payments or bugfix/42-login-error.
 
 ### Screens :
 
-<img width="781" height="417" alt="image" src="https://github.com/user-attachments/assets/898f7bc5-d97a-478b-8945-d27030f1c166" />
-<img width="751" height="414" alt="image" src="https://github.com/user-attachments/assets/1e197d92-5e29-4430-8096-d5542f778fe2" />
-<img width="769" height="414" alt="image" src="https://github.com/user-attachments/assets/481ae406-6403-4daf-972a-7080f2b128ee" />
-<img width="881" height="414" alt="image" src="https://github.com/user-attachments/assets/cab848ab-093e-410e-a308-e25a60464178" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/898f7bc5-d97a-478b-8945-d27030f1c166" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1e197d92-5e29-4430-8096-d5542f778fe2" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/481ae406-6403-4daf-972a-7080f2b128ee" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/cab848ab-093e-410e-a308-e25a60464178" />
 
-<img width="718" height="414" alt="image" src="https://github.com/user-attachments/assets/fd8ca758-6f23-48ad-a67d-68072b88500d" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/fd8ca758-6f23-48ad-a67d-68072b88500d" />
 
-<img width="1050" height="517" alt="image" src="https://github.com/user-attachments/assets/34dc87ef-6ab7-4e6e-9c76-0bfe4f546514" />
-<img width="1050" height="520" alt="image" src="https://github.com/user-attachments/assets/22fc6126-ca80-4093-91cb-9968e48a4deb" />
-<img width="1050" height="495" alt="image" src="https://github.com/user-attachments/assets/506b2b2e-27ea-4fe2-ac2d-db64ea89ae7f" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/34dc87ef-6ab7-4e6e-9c76-0bfe4f546514" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/22fc6126-ca80-4093-91cb-9968e48a4deb" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/506b2b2e-27ea-4fe2-ac2d-db64ea89ae7f" />
+
 
 
 
